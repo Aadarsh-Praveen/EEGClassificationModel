@@ -1,7 +1,7 @@
 # EEGClassificationModel
 
 
-Objective:
+About Dataset:
 
 
 The CHB-MIT Scalp EEG Database, a collection of EEG recordings of 22 pediatric subjects with intractable seizures, is now available. Subjects were monitored for up to several days following withdrawal of anti-seizure medication to characterize seizures and assess their candidacy for surgical intervention. In all, the onsets and ends of 182 seizures are annotated.
